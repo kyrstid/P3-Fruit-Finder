@@ -1,11 +1,4 @@
 
-# DeaneP3
-# Programmer: Kyrsti Deane
-# Email: kdeane1@cnm.edu
-# Purpose: Finds the names of fruit(s) in a string entered by the user
-
-
-
 fruits_list = ('apricot',
 'asian pear',
 'avocado',
@@ -51,7 +44,6 @@ fruits_list = ('apricot',
 'strawberries',
 'tangelo',
 'tangerines',
-
 'tomato',
 'ugli fruit',
 'watermelon')
